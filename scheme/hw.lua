@@ -3,7 +3,7 @@ box.cfg{
 }
 
 box.schema.user.grant('guest', 'read,write,execute', 'universe', nil, {if_not_exists=true})
-box.once("assistant_dz", function()
+box.once("hw", function()
     box.schema.space.create('user', {
         if_not_exists = true,
         format={

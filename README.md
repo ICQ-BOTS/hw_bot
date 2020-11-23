@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 2. Запуск space tarantool
 ```bash
-tarantoolctl start hw_bot.lua
+tarantoolctl start hw.lua
 ```
 > Файл из папки scheme нужно перекинуть в /etc/tarantool/instances.available
 
