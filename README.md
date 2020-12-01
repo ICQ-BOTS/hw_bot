@@ -1,10 +1,18 @@
-<img src="https://github.com/ICQ-BOTS/hw_bot/blob/main/hw.png" width="100" height="100">
 
+# [Староста](https://icq.im/hw_bot)
 
-# Староста
-[Староста](https://icq.im/hw_bot)
+<a href="https://icq.im/hw_bot"><img src="https://github.com/ICQ-BOTS/hw_bot/blob/main/blanket.png" width="100" height="100"></a>
 
-Старт:
+# Оглавление 
+ - [Описание](https://github.com/ICQ-BOTS/hw_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/hw_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/hw_bot#скриншоты-работы)
+
+# Описание
+Записывает расписание и домашнюю работу!
+
+# Установка
+
 1. Установка всех зависимостей 
 ```bash
 pip install -r requirements.txt
@@ -22,3 +30,7 @@ tarantoolctl start hw.lua
 ```bash
 python3 hw_bot.py
 ```
+
+# Скриншоты работы
+<img src="https://github.com/ICQ-BOTS/hw_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/hw_bot/blob/main/img/2.png" width="400">
