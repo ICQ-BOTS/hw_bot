@@ -1,7 +1,7 @@
 
 # [Староста](https://icq.im/hw_bot)
 
-<a href="https://icq.im/hw_bot"><img src="https://github.com/ICQ-BOTS/hw_bot/blob/main/blanket.png" width="100" height="100"></a>
+<a href="https://icq.im/hw_bot"><img src="https://github.com/ICQ-BOTS/hw_bot/blob/main/hw.png" width="100" height="100"></a>
 
 # Оглавление 
  - [Описание](https://github.com/ICQ-BOTS/hw_bot#описание)
